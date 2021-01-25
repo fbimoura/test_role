@@ -1,0 +1,5 @@
+---
+# tasks file for teste
+- name: Debugando
+  debug:
+    msg: Role de testes
